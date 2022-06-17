@@ -7,7 +7,7 @@ const message = {
 };
 
 //Act
-const countSuccessFunction = characterCount("basir");
+const countSuccessFunction = characterCount("sajid");
 const countFailFunction = () => characterCount("");
 
 //Assert
