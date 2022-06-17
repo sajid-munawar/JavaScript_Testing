@@ -1,0 +1,23 @@
+{
+  "name": "javascript_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajid-munawar/JavaScript_Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajid-munawar/JavaScript_Testing/issues"
+  },
+  "homepage": "https://github.com/sajid-munawar/JavaScript_Testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
