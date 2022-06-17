@@ -1,6 +1,5 @@
-const strLength = (strInp) =>{
-    return strInp.length
-}
-
-// console.log(strLength('sajid'));
-module.exports= strLength
+const characterCount = (string) => {
+  if (string.length >= 1 && string.length <= 10) return string.length;
+  throw new Error("Error");
+};
+module.exports = characterCount;
